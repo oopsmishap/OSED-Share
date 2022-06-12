@@ -2,7 +2,7 @@
 
 A collection of things to put into your OSED share folder, these are based on [epi052's OSED scripts](https://github.com/epi052/osed-scripts)
 
-###`init.ps1`
+### `init.ps1`
 
 This is the main script to run, it will pull everything over to the OSED VM.
 
