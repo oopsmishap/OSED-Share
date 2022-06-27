@@ -6,6 +6,8 @@ A collection of things to put into your OSED share folder, these are based on [e
 
 This is the main script to run, it will pull everything over to the OSED VM.
 
+You will need to edit your share path on line 1 `$share_path = "\\tsclient\_mnt_e_share\" # change to your share path`
+
 It will also drop epi's WinDbg scripts into WinDbg's root to allow you to run them from a Python3 version (windbg-default.ps1).
 
 To run open `PowerShell` as admin and execute the following command ensuring that you change the share folder location to yours.
